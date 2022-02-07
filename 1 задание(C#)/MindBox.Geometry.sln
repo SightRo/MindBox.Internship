@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox.Geometry", "MindBox.Geometry\MindBox.Geometry.csproj", "{00F8DFED-FF5E-46AC-A952-68EC349BCF82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox.Geometry.Tests", "MindBox.Geometry.Tests\MindBox.Geometry.Tests.csproj", "{B2903E90-17FA-4D3A-A777-69900723480A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00F8DFED-FF5E-46AC-A952-68EC349BCF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F8DFED-FF5E-46AC-A952-68EC349BCF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F8DFED-FF5E-46AC-A952-68EC349BCF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F8DFED-FF5E-46AC-A952-68EC349BCF82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2903E90-17FA-4D3A-A777-69900723480A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2903E90-17FA-4D3A-A777-69900723480A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2903E90-17FA-4D3A-A777-69900723480A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2903E90-17FA-4D3A-A777-69900723480A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
